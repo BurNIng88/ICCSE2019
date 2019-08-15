@@ -470,6 +470,10 @@ body {
   text-align: center;
 
 }
+.keynoteCard{ 
+  max-width: 600px;
+  margin: auto;
+}
 
 
 .profileCard p{
